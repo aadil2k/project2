@@ -1,0 +1,107 @@
+.h12pg{
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    left: 296px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.material-icons{
+    color: tomato;
+    position: relative;
+    top: 100px;
+    left: 120px;
+}
+.back{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: -160px;
+}
+.box2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 223px;
+    left: 307px;
+    border: 2px solid tomato;
+    height: 310px;
+    width: 310px;
+    border-radius: 5px;
+    align-items: center;
+}
+.h2{
+    justify-content: center;
+    text-align: center;
+}
+hr{
+    margin-left: 40px;
+}
+.completedtask{
+    justify-content: center;
+    text-align: center;
+    color: tomato;
+    text-decoration: line-through;
+    font-size: 20px;
+}
+.pendingtask{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    left: 85px;
+    font-size: 20px;
+}
+.triptoparis{
+    filter: blur(5px);
+    z-index: -1;
+}
+
+
+.newlist{
+    border: 2px solid tomato;
+    height: 200px;
+    width: 390px;
+    border-radius: 10px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 25px;
+    left: 260px;
+}
+p{
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+input{
+    color: tomato;
+    height: 40px;
+    width: 270px;
+    border-radius: 50px;
+    border-color: tomato;
+   position: relative;
+   top: 15px;
+   left: 55px;
+}
+button{
+    color: white;
+    border-color: tomato;
+    background-color: tomato;
+    border-radius: 50px;
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    position: relative;
+    left: 150px;
+    top: 15px;
+
+}
+.mainbox{
+    position: relative;
+    left: 15%;
+}

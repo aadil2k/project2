@@ -1,0 +1,81 @@
+body{
+    overflow: hidden;
+}
+.h12pg{
+    display: inline-block;
+    margin: 0px 30px 0px 30px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.headhr{
+    display: inline-block;
+    width: 200px;
+}
+.heading{
+    position: relative;
+    left: 202px;
+    top: 35px;
+}
+.material-icons{
+    color: tomato;
+    position: relative;
+    top: 78px;
+    left: 565px;
+}
+.back{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 600px;
+}
+.box2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 223px;
+    left: 485px;
+    border: 2px solid tomato;
+    height: 310px;
+    width: 310px;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 5px 5px rgb(161, 160, 160);
+}
+.h2{
+    justify-content: center;
+    text-align: center;
+}
+hr{
+    margin-left: 40px;
+}
+.completedtask{
+    justify-content: center;
+    text-align: center;
+    color: tomato;
+    text-decoration: line-through;
+    font-size: 20px;
+}
+.pendingtask{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    left: 85px;
+    font-size: 20px;
+}
+#addbutton{
+    color: tomato;
+    font-size: 40px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 330px;
+    left: 730px;
+}
+/* .addbutton{
+    display: inline-block;
+    position: relative;
+    top: 130;
+    left: 110;
+} */
